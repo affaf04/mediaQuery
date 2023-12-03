@@ -1,0 +1,187 @@
+
+@media screen and (max-width: 1280px) {
+    body{
+        background-image: url('https://img.freepik.com/premium-vector/powerpuff-girls-main-blue-heart-background_653771-14.jpg');
+        background-size: cover;
+    }
+    .navbar{
+        border:solid peru;
+        height:200px;
+        width:50vw;
+        color:lemonchiffon;
+        align-items: center;
+    }
+    .girl{
+        border:solid lemonchiffon;
+        display:block;
+        margin:2em;
+        align-items: center;
+
+    }
+    
+    .mainPic{
+        height:400px;
+        width:400px;
+        align-items: center;
+    }
+    .desc{
+        color:blue;
+        padding:1em;
+        text-align:left;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .main{
+        display:flex;
+        flex-wrap:none;
+    }
+    .magic{
+        height:290px;
+        width:290px;
+        border:solid green;
+        background-image: url('https://64.media.tumblr.com/e6c37401bfef0aa180fd1e5ddcd340bb/5830459a415b4838-62/s400x600/9ecfefe8b9f2892776f3450a9e79c41599ebed2f.gif');
+        background-size:cover;
+    }
+  }
+
+
+
+
+  @media screen and (max-width: 945px) {
+    body{
+        background-image: url('https://img.freepik.com/premium-vector/powerpuff-girls-main-blue-heart-background_653771-14.jpg');
+        background-size: cover;
+    }
+    .navbar{
+        border:solid salmon;
+        height:200px;
+        width:50vw;
+        color:blue;
+        align-items: center;
+    }
+    .girl{
+        border:solid rgb(114, 202, 250);
+        display:block;
+        align-items: center;
+
+    }
+    
+    .mainPic{
+        height:250px;
+        width:250px;
+        align-items: center;
+
+    }
+    .desc{
+        color:rgb(194, 201, 5);
+        padding:1em;
+        text-align:center;
+        font-size:12px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .main{
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .magic{
+        height:290px;
+        width:290px;
+        border:solid orange;
+        background-image: url('https://www.writeups.org/wp-content/uploads/Bubbles-Powerpuff-Girls-Profile.jpg');
+        background-size:cover;
+    }
+  }
+
+@media screen and (max-width: 750px) {
+    body{
+        background-image: url('https://img.freepik.com/premium-vector/powerpuff-girls-main-blue-heart-background_653771-14.jpg');
+        background-size: cover;
+    }
+    .navbar{
+        border:solid salmon;
+        height:200px;
+        width:50vw;
+        color:blue;
+        align-items: center;
+    }
+    .girl{
+        border:solid salmon;
+        display:block;
+        align-items: center;
+
+    }
+    
+    .mainPic{
+        height:250px;
+        width:250px;
+        align-items: center;
+
+    }
+    .desc{
+        color:rgb(221, 0, 255);
+        padding:1em;
+        text-align:center;
+        font-size:12px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .main{
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .magic{
+        height:290px;
+        width:290px;
+        border:solid rgb(255, 55, 0);
+        background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c3903cd-f78c-4ee4-a514-59602735cf3c/dfwmfdn-df413a3c-8696-4193-afd1-1b3c9414a973.png/v1/fill/w_663,h_685/blossom_render_png_1_by_calvinwil5782_dfwmfdn-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg1IiwicGF0aCI6IlwvZlwvMmMzOTAzY2QtZjc4Yy00ZWU0LWE1MTQtNTk2MDI3MzVjZjNjXC9kZndtZmRuLWRmNDEzYTNjLTg2OTYtNDE5My1hZmQxLTFiM2M5NDE0YTk3My5wbmciLCJ3aWR0aCI6Ijw9NjYzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Q2IWTBXYCubJQo7JSQMBjN6QHac2w1tRcZEcu3GJqN4');
+        background-size:cover;
+    }
+  }
+
+
+
+
+  @media screen and (max-width: 500px) {
+    body{
+        background-image: url('https://img.freepik.com/premium-vector/powerpuff-girls-main-blue-heart-background_653771-14.jpg');
+        background-size: cover;
+
+    }
+    .navbar{
+        border:solid white;
+        height:200px;
+      width:50vh;
+      color:lime;
+      align-items: center;
+      
+    }
+    .girl{
+        border:solid white;
+        display:block;
+        align-items: center;
+
+    }
+    
+    .mainPic{
+        height:250px;
+        width:250px;
+        align-items: center;
+
+    }
+    .desc{
+        color:black;
+        padding:1em;
+        text-align:center;
+        font-size: 12px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .main{
+        display:block;
+        flex-wrap:none;
+    }
+    .magic{
+        height:290px;
+        width:290px;
+        border:solid rgb(8, 175, 5);
+        background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b2747af-35b4-4806-90b2-d2a6371576b2/dfgp0l4-79dcd5ad-59c1-4c7b-a4b2-0bd203de8bf4.jpg/v1/fill/w_1280,h_1811,q_75,strp/buttercup_by_gsg27_dfgp0l4-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgxMSIsInBhdGgiOiJcL2ZcLzJiMjc0N2FmLTM1YjQtNDgwNi05MGIyLWQyYTYzNzE1NzZiMlwvZGZncDBsNC03OWRjZDVhZC01OWMxLTRjN2ItYTRiMi0wYmQyMDNkZThiZjQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.w5j615QSyJmBtcOPFMiv_-9Qg7tu3t0Tz3hEk0p_UlU');
+        background-size:cover;
+    }
+  }
